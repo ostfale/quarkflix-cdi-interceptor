@@ -8,6 +8,7 @@ They work by "intercepting" method calls, allowing you to execute code before, a
 This is a core concept of Aspect-Oriented Programming (AOP).
 
 Github: -> https://github.com/myfear/ejq_substack_articles/tree/main/quarkflix-guards?utm_source=substack&utm_medium=email
+Blog: -> https://www.the-main-thread.com/p/quarkus-cdi-interceptors-real-world?utm_source=publication-search
 
 
 ## run
